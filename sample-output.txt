@@ -1,0 +1,10 @@
+=== Employee Record System ===
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 1
+Enter Employee ID: 101
+Enter Name: Venkat
+Enter Designation: Developer
+Enter Salary: 50000
+Employee added successfully.
