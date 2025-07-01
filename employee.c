@@ -89,5 +89,3 @@ int main() {
 
     return 0;
 }
-
-Added main C source file for employee system
