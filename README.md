@@ -39,11 +39,13 @@ gcc employee.c -o employee
 
 ---
 
-## 📄 Disclaimer
+📄 Disclaimer
+This project was developed during Semester 2 as part of the PPS (Problem Solving and Programming in C) course at SRM Institute of Science and Technology.
+It demonstrates basic file handling concepts and a menu-driven structure in the C programming language.
 
-This project was developed during Semester 2 as part of the **PPS (Problem Solving and Programming in C)** course. It implements basic file handling in C to manage employee records.
-
-It is intended **solely for learning and academic submission** purposes and lacks data security or scalability features needed for real-world use.
+This code is intended strictly for academic and educational use only.
+It is not secure, not optimized for scalability, and should not be used in production environments.
 
 © 2022 **Venkat Aditya Vellanki**. All rights reserved.
+
 
