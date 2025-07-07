@@ -36,3 +36,14 @@ The program allows adding and displaying employee records using file handling.
 ```bash
 gcc employee.c -o employee
 ./employee
+
+---
+
+## 📄 Disclaimer
+
+This project was developed during Semester 2 as part of the **PPS (Problem Solving and Programming in C)** course. It implements basic file handling in C to manage employee records.
+
+It is intended **solely for learning and academic submission** purposes and lacks data security or scalability features needed for real-world use.
+
+© 2022 **Venkat Aditya Vellanki**. All rights reserved.
+
